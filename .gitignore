@@ -1,5 +1,5 @@
-# Data (archivos grandes)
-data/*.csv
+# Data (solo el archivo grande)
+data/trustpilot-reviews-123k.csv
 
 # Python
 __pycache__/
