@@ -1,6 +1,12 @@
 # 🎟️ Proyecto Deep Learning - Ticketmaster NLP Analysis
 
-Análisis de reseñas de Trustpilot de **Ticketmaster** (sector: Events & Entertainment) mediante técnicas de NLP y Deep Learning.
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![BERTopic](https://img.shields.io/badge/BERTopic-0.16+-4CAF50?style=for-the-badge&logo=buffer&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+> Análisis de reseñas de Trustpilot de **Ticketmaster** (sector: Events & Entertainment) mediante técnicas de NLP y Deep Learning.
 
 ## 🎯 Objetivo
 
