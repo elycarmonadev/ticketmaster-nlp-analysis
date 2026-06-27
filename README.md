@@ -15,6 +15,12 @@ Analizar el sentimiento y los topics de las reseñas de Ticketmaster y compararl
   - **Compra de tickets y app** → 84.4% negativo ⚠️ principal área de mejora
 - El proceso de compra es **14 puntos peor** que la media del sector (84.4% vs 70.8%)
 
+### Sentimiento global: Ticketmaster vs Competencia
+![Análisis de Sentimiento](images/tarta.png)
+
+### Comparativa directa en compra de entradas
+![Comparativa Ticketmaster vs Competencia](images/comparativa.png)
+
 
 ## 📁 Estructura del proyecto
 
@@ -44,10 +50,9 @@ ticketmaster-nlp-analysis/
 - Python 3.12
 - pandas, numpy
 - transformers (DistilBERT)
-- BERTopic
+- BERTopic, sentence-transformers
 - scikit-learn
 - matplotlib, seaborn, wordcloud
-
 
 ## 📝 Dataset
 
@@ -55,3 +60,6 @@ ticketmaster-nlp-analysis/
 - **Total:** 123.181 reseñas · 1.680 empresas · 22 sectores
 - **Empresa analizada:** www.ticketmaster.co.uk (100 reseñas)
 - **Competencia:** 5.198 reseñas del sector Events & Entertainment
+
+---
+*Proyecto desarrollado durante el Máster en Data Science & IA, en el módulo de Deep Learning — Evolve*
